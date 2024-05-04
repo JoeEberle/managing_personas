@@ -1,12 +1,12 @@
 
-# Managing Personas - Genterate and mangae personas of any type to Mmake Chat GPT even MORE AMAZING !!!!
-Genterate and mangae personas of any type to Mmake Chat GPT even MORE AMAZING !!!!
+# Managing Personas - Generate and manage personas of any type to Make Chat GPT even MORE AMAZING !!!!
+Generate and manage personas of any type to Make Chat GPT even MORE AMAZING !!!!
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Managing Personas** - an example for your projects
 
-Genterate and mangae personas of any type to Mmake Chat GPT even MORE AMAZING !!!!
+Generate and manage personas of any type to Make Chat GPT even MORE AMAZING !!!!
 
 ![Image image_filename](sample.png)
 
@@ -38,4 +38,4 @@ To get started with the **Managing Personas** solution repository, follow these 
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](managing_personas.png)  <br>
+    ## Deliverables or Figures![additional_image](managing_personas.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
