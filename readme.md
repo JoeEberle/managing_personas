@@ -46,4 +46,7 @@ To get started with the **Managing Personas** solution repository, follow these 
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](managing_personas.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
+## Deliverables or Figures
+ ![additional_image](managing_personas.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
