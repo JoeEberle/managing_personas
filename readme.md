@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Managing Personas - Generate and manage personas of any type to Make Chat GPT even MORE AMAZING !!!!
 Generate and manage personas of any type to Make Chat GPT even MORE AMAZING !!!!
 
@@ -9,8 +11,6 @@ Welcome to the solution **Managing Personas** - an example for your projects
 Generate and manage personas of any type to Make Chat GPT even MORE AMAZING !!!!
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
