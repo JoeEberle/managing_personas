@@ -2,7 +2,7 @@
 Welcome to the solution **Managing Personas** - an example for your projects
 
 2024-03-15 10:39:07,391 - INFO - PERFORMANCE solution_temple Stop Time = 2024-03-15 10:39:07
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
