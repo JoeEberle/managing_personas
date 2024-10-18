@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Managing Personas 
-    ## 2024-03-15 10:39:07,391 - INFO - PERFORMANCE solution_temple Stop Time = 2024-03-15 10:39:07
+    
+# Managing Personas 
+
+## 2024-03-15 10:39:07,391 - INFO - PERFORMANCE solution_temple Stop Time = 2024-03-15 10:39:07
+
     ![Image image_filename](code.png)
 Welcome to the solution **Managing Personas** - an example for your projects
 
@@ -25,9 +28,9 @@ To get started with the **Managing Personas** solution repository, follow these 
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Managing Personas** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -37,6 +40,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](managing_personas.png)  <br>
